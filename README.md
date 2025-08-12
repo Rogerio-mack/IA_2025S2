@@ -7,6 +7,7 @@
 rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Moodle/Canvas*.  
 
 <br>
+<br>
 
 #### Planos de Ensino e Aulas
 
@@ -21,12 +22,10 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 * **03.12** PSUB
 * **10.12** PF
 
+#### Projeto
+* [Templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
 
-<br>
-
->> [templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
-
->> Exemplos de Projetos no GitHub: [Trabalho1](https://github.com/matteovar/Deteccao_de_image) | [Trabalho2](https://github.com/LeticiaMoraesG/Projeto_gatos/tree/main) | [Trabalho3](https://github.com/erikhsu08/projetoIA/tree/main)
+* Exemplos de Projetos no GitHub: [Trabalho1](https://github.com/matteovar/Deteccao_de_image) | [Trabalho2](https://github.com/LeticiaMoraesG/Projeto_gatos/tree/main) | [Trabalho3](https://github.com/erikhsu08/projetoIA/tree/main)
 
 #### Notas
 
