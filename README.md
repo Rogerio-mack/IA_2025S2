@@ -18,7 +18,6 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 * **01.10** Avaliação A1
 * **19.11** Apresentação dos Projetos
 * **26.11** Avaliação A2
-* **01.06** Entrega e Apresentação dos Projetos, no Moodle/AVA
 * **03.12** PSUB
 * **10.12** PF
 
